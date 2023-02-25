@@ -1,9 +1,7 @@
 body {
-    width: 1280px;
-    height: 832px;
     font-family: 'Archivo Black', sans-serif;
+    overflow: hidden;
 }
-
 
 .main_circle {
     position: absolute;
@@ -21,11 +19,40 @@ body {
     position: absolute;
     width: 720px;
     height: 750px;
-    margin-top: 180px;
+    margin-top: 170px;
     margin-left: 220px;
 }
 
-.main_text p {
+.main_text .text1 {
     position: absolute;
-    font-size: 100px;
+    font-size: 117px;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left: 600px;
+}
+
+.main_text .text2 {
+    position: absolute;
+    font-size: 117px;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left: 800px;
+    margin-top: 300px;
+}
+
+.main_btn {
+    position: absolute;
+    left: 57.34%;
+    right: 2.5%;
+    top: 73.56%;
+    bottom: 15.38%;
+    background-color: #225794;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
 }
