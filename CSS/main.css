@@ -46,10 +46,10 @@ body {
     margin-top: 300px;
 }
 
-.main_btn {
+.main_btn1 {
     position: absolute;
-    left: 57.34%;
-    right: 2.5%;
+    width: 500px;
+    margin-left: 950px;
     top: 73.56%;
     bottom: 15.38%;
     background-color: #225794;
