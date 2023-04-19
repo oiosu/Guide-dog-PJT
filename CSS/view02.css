@@ -182,3 +182,12 @@ body {
     top: 66.35%;
     bottom: 17.79%;
 }
+
+.bottom_text {
+    position: absolute;
+    left: 32.34%;
+    right: 32.27%;
+    top: 85%;
+    bottom: 3.61%;
+    color: #000;
+}
