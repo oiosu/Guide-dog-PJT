@@ -21,6 +21,13 @@ body {
     margin-left: 180px;
 }
 
+.nav .left1 .click_text {
+    text-decoration: none;
+    font-size: 18px;
+    color: #fff;
+    margin-top: 23px;
+}
+
 .nav .right2 {
     width: 966px;
     height: 70px;
