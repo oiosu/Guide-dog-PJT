@@ -1,0 +1,75 @@
+body {
+    font-family: 'Archivo Black', sans-serif;
+    overflow: hidden;
+}
+
+.main_circle {
+    position: absolute;
+    width: 757px;
+    height: 686px;
+    background-color: #F2F2F2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-left: 180px;
+}
+
+
+.dog img{
+    position: absolute;
+    width: 720px;
+    height: 750px;
+    margin-top: 170px;
+    margin-left: 210px;
+}
+
+.main_text .text1 {
+    position: absolute;
+    font-size: 117px;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left: 600px;
+}
+
+.main_text .text2 {
+    position: absolute;
+    font-size: 117px;
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left: 800px;
+    margin-top: 280px;
+}
+
+.main_text .text3 {
+    position: absolute;
+    left: 49.77%;
+    right: 10.84%;
+    top: 52.64%;
+    bottom: 32.81%;
+}
+
+.main_btn1 {
+    position: absolute;
+    width: 500px;
+    margin-left: 950px;
+    top: 73.56%;
+    bottom: 15.38%;
+    background-color: #225794;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.main_btn1 .btn_text {
+    position: absolute;
+    color: #F2F2F2;
+    font-size: 38px;
+    text-decoration: none;
+    margin-top: 25px;
+    margin-left: 70px;
+}
